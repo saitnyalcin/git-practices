@@ -1,4 +1,4 @@
-# git-practices
+# Best GIT Commands
 Useful git commands when you feel that you need them to stay away from having more trouble with the repo
 
 ## Replace with new Remote Branch
