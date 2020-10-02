@@ -1,5 +1,5 @@
 # Best GIT Commands
-Useful git commands when you feel that you need them to stay away from having more trouble with the repo
+Useful git commands when you feel that you need them to stay away from having more trouble with the repository
 
 ## Replace with new Remote Branch
 `git branch branch_name --set-upstream-to your_new_remote/branch_name`
